@@ -35,24 +35,24 @@
 
 - #### 轮播图和icons组件
 
-![](/Users/vicky/vue/Travel/轮播图+icons.png)
+![](./轮播图+icons.png)
 
 - #### 热销推荐组件
 
-  ![](/Users/vicky/vue/Travel/热销推荐.png)
+  ![](./热销推荐.png)
 
 - #### 热销详情页
 
-![](/Users/vicky/vue/Travel/热销详情页.png)
+![](./热销详情页.png)
 
 - #### 城市页
 
-![](/Users/vicky/vue/Travel/城市选择页.png)
+![](./城市选择页.png)
 
 - #### 城市页字母条
 
-![](/Users/vicky/vue/Travel/字母条.png)
+![](./字母条.png)
 
 - #### 周末去哪儿组件
 
-![周末去哪儿](/Users/vicky/vue/Travel/周末去哪儿.png)
+![](./周末去哪儿.png)
