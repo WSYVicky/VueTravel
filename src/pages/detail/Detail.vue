@@ -40,10 +40,12 @@ export default {
       res = res.data
       if (res.ret && res.data) {
         const data = res.data
+        console.log(data.sightName)
         this.sightName = data.sightName
         this.bannerImg = data.bannerImg
         this.gallaryImgs = data.gallaryImgs
         this.list = data.categoryList
+        console.log(data.sightName)
       }
     }
   },

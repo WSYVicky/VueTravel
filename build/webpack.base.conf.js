@@ -89,6 +89,7 @@ module.exports = {
     fs: 'empty',
     net: 'empty',
     tls: 'empty',
+    // eslint-disable-next-line
     child_process: 'empty'
   }
 }

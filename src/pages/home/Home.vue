@@ -34,9 +34,9 @@ export default {
       lastCity: ''
     }
   },
-  computed: {
-    ...mapState(['city'])
-  },
+  /* eslint-disable */
+  computed: { ...mapState(['city']) },
+  /* eslint-enable */
   methods: {
     getHomeInfo () {
       axios.get('/api/index.json?city=' + this.city)
@@ -50,6 +50,8 @@ export default {
         this.iconList = data.iconList
         this.recommendList = data.recommendList
         this.weekendList = data.weekendList
+        console.log(data)
+        console.log(data.swiperList)
       }
     }
   },

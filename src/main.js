@@ -13,9 +13,9 @@ import 'styles/iconfont.css'
 // require styles
 import 'swiper/dist/css/swiper.css'
 
-Vue.config.productionTip = false
-fastClick.attach(document.body)
-Vue.use(VueAwesomeSwiper)
+Vue.config.productionTip = false;
+fastClick.attach(document.body);
+Vue.use(VueAwesomeSwiper);
 
 /* eslint-disable no-new */
 new Vue({
@@ -24,4 +24,4 @@ new Vue({
   store,
   components: { App },
   template: '<App/>'
-})
+});
