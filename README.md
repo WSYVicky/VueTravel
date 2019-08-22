@@ -39,24 +39,20 @@
 
 - #### 轮播图和icons组件
 
-![](./轮播图+icons.png)
+<img src="./轮播图+icons.png" width = "70%" height = "70%" div/>
+
 
 - #### 热销推荐组件
-
-  ![](./热销推荐.png)
+<img src="./热销推荐.png" width = "70%" height = "70%" div/>
 
 - #### 热销详情页
-
-![](./热销详情页.png)
+<img src="./热销详情页.png" width = "70%" height = "70%" div/>
 
 - #### 城市页
-
-![](./城市选择页.png)
+<img src="./城市选择页.png" width = "70%" height = "70%" div/>
 
 - #### 城市页字母条
-
-![](./字母条.png)
+<img src="./字母条.png" width = "70%" height = "70%" div/>
 
 - #### 周末去哪儿组件
-
-![](./周末去哪儿.png)
+<img src="./周末去哪儿.png" width = "70%" height = "70%" div/>
